@@ -1,2 +1,1 @@
-# clojure-cheatsheet
-Comprehensive Clojure Cheatsheet
+# Comprehensive Clojure Cheatsheet
